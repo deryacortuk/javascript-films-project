@@ -18,5 +18,7 @@ Static Methods
 Static methods are defined on the class itself, and not on the prototype.
 
 https://www.w3schools.com/js/js_classes.asp
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor
+
 https://javascript.info/class
