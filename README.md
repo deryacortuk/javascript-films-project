@@ -13,6 +13,7 @@ The constructor method is special, it is where you initialize properties, it is 
 and it has to have the exact name "constructor", in fact, if you do not have a constructor method, JavaScript will add an invisible 
 and empty constructor method.
 
+
 Static Methods
 
 Static methods are defined on the class itself, and not on the prototype.
